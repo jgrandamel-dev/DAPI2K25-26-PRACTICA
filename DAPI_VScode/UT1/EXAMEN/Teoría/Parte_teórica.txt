@@ -1,0 +1,83 @@
+Rellena los siguientes datos:
+ Nombre: 
+ apellidos:
+ DNI:
+ Grupo: 
+
+ Instrucciones: 
+ Responde a cada pregunta justificando la respuesta en cada caso.
+
+ 1) Cuantos tipos de datos existen? 
+
+
+
+
+
+
+ 2) Para que sirve la función TYPE?
+
+
+
+
+
+
+ 3) ¿En qué consiste la programación estructurada?
+
+
+
+
+
+
+ 4) ¿Cuál fue el primer lenguaje informático?
+
+
+
+
+
+
+
+ 5) ¿A qué lenguaje informático pertenece el siguiente código?
+
+ADD #27, D0
+
+
+
+
+
+
+ 6) ¿Cuál es el tamaño máximo de linea en PYTHON?
+
+
+
+
+
+
+
+ 7) ¿Cuál es la diferencia entre un lenguaje de bajo nivel y un lenguaje de alto nivel? (Da al menos un ejemplo de cada tipo)
+
+
+
+
+
+
+
+
+ 8)Explica la metodología de la metodología de programación estructurada Waterfall.
+
+
+
+
+
+
+
+
+ 9)¿Qué es un Pseudocódigo?
+
+
+
+
+
+
+
+
+ 10) ¿Para qué sirve un control de versiones? Da al menos un ejemplo que conozcas
